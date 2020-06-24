@@ -11,7 +11,7 @@ JSON and OS operations
 - json
 - os 
 
-Sagemaker Resources
+AWS Sagemaker Resources
 - boto3
 - sagemaker
 - get_execution_role
