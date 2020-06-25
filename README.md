@@ -2,7 +2,7 @@
 
 Capstone Project for the Udacity &amp; AWS's Machine Learning Engineer Nanodegree
 
-Please refer to the Capstone Report.pdf file for a documented walk-through of the project and to The Capstone Project.ipynb for the code.
+Please refer to the *Capstone Report.pdf* file for a documented walk-through of the project and to the *Capstone Project.ipynb* for the code.
 
 ## Data Source
 "M5 Forecasting - Accuracy" Kaggle Competition (Walmart data)
