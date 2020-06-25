@@ -1,9 +1,9 @@
-# ML_Engineer_Capstone
+# Predicting product sales using AWS DeepAR (based on RNNs)
+
 Capstone Project for the Udacity &amp; AWS's Machine Learning Engineer Nanodegree
 
-Predicting product sales using AWS DeepAR (based on RNNs)
-
-Data source: "M5 Forecasting - Accuracy" Kaggle Competition (Walmart data)
+## Data Source
+"M5 Forecasting - Accuracy" Kaggle Competition (Walmart data)
 
 ## Libraries
 Data manipulation and visualization
